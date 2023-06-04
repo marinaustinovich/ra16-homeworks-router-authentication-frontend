@@ -1,0 +1,18 @@
+
+.user-wrapper {
+    display: flex;
+    margin-left: 40%;
+}
+  
+.form-wrapper .logout {
+    margin-left: 1rem;
+    background-color: rgb(243, 143, 143);
+}
+
+.user-avatar {
+    border-radius: 50%;
+}
+
+.form-wrapper .logout:hover {
+    background-color: rgb(240, 115, 115); 
+}

@@ -1,0 +1,21 @@
+.App {
+  position: relative;
+  text-align: center;
+  padding: 2rem;
+}
+
+.card-group {
+  margin-top: 2rem;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.container {
+  flex-wrap: wrap;
+}
+
+.w-30 {
+  width: 45%;
+  margin-bottom: 1rem;
+}
+

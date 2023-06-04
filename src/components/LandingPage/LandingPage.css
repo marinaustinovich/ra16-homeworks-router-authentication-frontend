@@ -1,0 +1,57 @@
+.landing-page {
+    padding: 20px; 
+}
+
+.banner {
+    background-color: #eaeaea; 
+    padding: 10px;
+    margin-top: 20px; 
+}
+
+.banner h2 {
+    font-size: 4rem;
+}
+
+.banner p {
+    font-size: 2rem;
+}
+
+.form-wrapper {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: #f2f2f2; 
+    text-align: center;
+}
+
+.form-wrapper p {
+    margin-right: 1rem;
+}
+
+.form-wrapper form {
+    display: flex;
+    align-items: center;
+}
+
+.form-wrapper input {
+    margin-right: 10px; 
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: 1px solid rgb(179, 175, 175)
+}
+
+.form-wrapper button {
+    background-color: #83c47d; 
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.form-wrapper button:hover {
+    background-color: #6ba76d; 
+}
